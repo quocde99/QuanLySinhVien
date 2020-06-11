@@ -9,4 +9,8 @@ SinhVien = function(){
     this.xuatThongTinSinhVien = function(){
         console.log(this.HoTen);
     }
+    this.nhapThongTinSinhVien = function () {
+        console.log(this.TenSV);
+        console.log(this.Email);
+    }
 }
