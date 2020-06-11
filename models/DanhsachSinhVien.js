@@ -4,3 +4,6 @@ var DanhSachSV = function(){
     }
     this.Name = '';
 }
+    this.GetAge = function(age){
+        console.log(age)
+}
