@@ -5,4 +5,5 @@ var DanhSachSV = function(){
     this.GetAge = function(age){
         console.log(age)
     }
+    this.occupation = '';
 } 
